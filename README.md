@@ -2,6 +2,8 @@
 
 Tugas kelompok DTS Kominfo 2022
 
+- Car detection using R-CNN
+
 Sumber : 
 - Rosebrock, A. (2020). R-CNN object detection with Keras, TensorFlow, and Deep Learning. PyImageSearch. Retrieved July 27, 2022
 https://pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
